@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @zennolux
 - I was a web developer for the past several years.
+- currently, I am trying to contribute to the open source and  develop some independent products.
