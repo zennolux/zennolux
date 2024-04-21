@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @zennolux
 - I was a web developer for the past several years.
-- currently, I am trying to contribute to the open source and  develop some independent products.
+- Currently, I am trying to contribute to the open source and  develop some independent products.
+- If you have anything to chat with me, welcome to email me at `zennolux@gmail.com`
