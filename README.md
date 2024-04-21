@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @zennolux
+- I was a web developer for the past several years.
