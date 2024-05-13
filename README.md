@@ -1,1 +1,1 @@
-- a quite ordinary programmer
+A quite ordinary programmer
