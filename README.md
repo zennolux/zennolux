@@ -1,1 +1,1 @@
-A quite ordinary programmer.
+Simply an ordinary programmer yet.
